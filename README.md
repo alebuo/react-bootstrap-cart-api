@@ -2,10 +2,12 @@
 
 ## About Project
 
-![Vista previa](src/screenshot-react-bootstrap-cart-api.jpg)
-
 This is a React application that is a online cellphone store.
 The application utilizes React Bootstrap for the user interface and incorporates a shopping cart feature with local storage for persistent data.
+
+
+![Vista previa](src/screenshot-react-bootstrap-cart-api.jpg)
+
 
 ## Features
 
@@ -55,7 +57,7 @@ The project structure is organized as follows:
 
 ## How to view the project?
 
-[https://harmonious-cuchufli-fcbad0.netlify.app/](https://harmonious-cuchufli-fcbad0.netlify.app/)
+[https://animated-choux-1d2d6d.netlify.app/](https://animated-choux-1d2d6d.netlify.app/)
 
 
 ## Installation
@@ -117,6 +119,4 @@ However, if you want to use a different currency API, you will need to obtain an
 - [React](https://reactjs.org/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
