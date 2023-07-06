@@ -1,11 +1,11 @@
-# React Bootstrap Cart With API
+## React Bootstrap Cart With API
 
-## About Project
+#### About Project
 
 This is a React application that is a online cellphone store.
 The application utilizes React Bootstrap for the user interface and incorporates a shopping cart feature with local storage for persistent data.
 
-## Features
+#### Features
 
 - Browse a selection of Samsung and Xiaomi cellphones.
 - Add selected cellphones to the shopping cart.
@@ -13,7 +13,7 @@ The application utilizes React Bootstrap for the user interface and incorporates
 - Persist shopping cart data using local storage.
 - Fetch real-time currency conversion rates from a currency API to display prices in both Euro and Dollar.
 
-## Project Structure
+#### Project Structure
 
 The project structure is organized as follows:
 
@@ -50,12 +50,12 @@ The project structure is organized as follows:
 ```
 
 
-## How to view the project?
+### How to view the project?
 
 [https://animated-choux-1d2d6d.netlify.app/](https://animated-choux-1d2d6d.netlify.app/)
 
 
-## Installation
+### Installation
 
 1. Clone the repository:
 
@@ -83,12 +83,12 @@ npm start
 
 5. Open the application in your browser at `http://localhost:3000`.
 
-## Configuration
+### Configuration
 
 To fetch real-time currency conversion rates, you dont need an API key from a currency API provider in this case. 
 However, if you want to use a different currency API, you will need to obtain an API key from the provider.
 
-## Technologies Used
+### Technologies Used
 
 - React
 - React Bootstrap
@@ -108,10 +108,3 @@ However, if you want to use a different currency API, you will need to obtain an
 
 
 ### Thanks! 🙌
-
-## Credits
-
-- [React](https://reactjs.org/)
-- [React Bootstrap](https://react-bootstrap.github.io/)
-
-
