@@ -1,38 +1,43 @@
-.App {
-  text-align: center;
+:root {
+    --dark-bg-color: #130808;
+    --light-bg-color: #ffffff;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+[data-bs-theme="dark"] {
+    --bs-body-bg: var(--dark-bg-color);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+[data-bs-theme="light"] {
+    --bs-body-bg: var(--light-bg-color);
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.fontProductsEuros {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 0.8rem;
+    color: blueviolet;
+    text-align: center;
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
 }
 
-.App-link {
-  color: #61dafb;
+.fontProductsDollar {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.8rem;
+    color: green;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.fontProductsDollarModal {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.0rem;
+    color: green;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
