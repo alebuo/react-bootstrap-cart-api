@@ -19,13 +19,16 @@ The project structure is organized as follows:
 
 ```
 ├── public
+│   ├── apple-touch-icon.png
 │   ├── favicon.ico
 │   ├── index.html
 │   ├── manifest.json
 │   └── robots.txt
 ├── src
 │   ├── components
-│   │   ├── Cambiotema.jsx
+│   │   ├── images
+│   │   │   └── ...
+│   │   ├── Changemode.jsx
 │   │   ├── Cart.jsx
 │   │   ├── Cellphonesdata.jsx
 │   │   ├── Footer.jsx
@@ -33,10 +36,6 @@ The project structure is organized as follows:
 │   │   ├── Main.jsx
 │   │   ├── Products.jsx
 │   │   └── Productincart.jsx
-│   ├── images
-│   │   ├── 
-│   │   ├── 
-│   │   └── 
 │   ├── App.css
 │   ├── App.js
 │   ├── App.test.js

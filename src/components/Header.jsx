@@ -5,7 +5,7 @@ import iconGithub from "./images/iconGithub.png";
 import iconFacebook from "./images/iconFacebook.png";
 import iconTwitter from "./images/iconTwitter.png";
 import iconYoutube from "./images/iconYoutube.png";
-import cambioTema from "./Cambiotema";
+import changemode from "./Changemode";
 import {BsFillMoonFill, BsSun} from "react-icons/bs";
 
 function Header() {
@@ -15,7 +15,7 @@ function Header() {
                 <Navbar expand="lg" className="navbar navbar-dark bg-dark" fixed="top" style={{opacity: '0.8'}}>
                     <Container fluid>
                         <Navbar.Brand href="index.html">React Bootstrap Cart</Navbar.Brand>
-                        <button onClick={cambioTema}
+                        <button onClick={changemode}
                                 className="btn btn-dark bg-secondary btn-sm px-1 me-sm-3"> Dark <BsFillMoonFill/> / <BsSun/> Light
                         </button>
                         <Navbar.Toggle aria-controls="navbarScroll"/>
