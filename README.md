@@ -61,7 +61,7 @@ The project structure is organized as follows:
 1. Clone the repository:
 
 ```
-git clone https://github.com/alebuo/react-bootstrap-cart-api
+git clone https://github.com/alebuo/react-bootstrap-cart-api.git
 ```
 
 2. Navigate to the project directory:
