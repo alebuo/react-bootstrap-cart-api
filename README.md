@@ -28,9 +28,9 @@ The project structure is organized as follows:
 │   ├── components
 │   │   ├── images
 │   │   │   └── ...
-│   │   ├── Changemode.jsx
 │   │   ├── Cart.jsx
 │   │   ├── Cellphonesdata.jsx
+│   │   ├── Changemode.jsx
 │   │   ├── Footer.jsx
 │   │   ├── Header.jsx
 │   │   ├── Main.jsx
