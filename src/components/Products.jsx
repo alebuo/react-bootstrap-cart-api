@@ -1,7 +1,7 @@
 import {MdDeleteForever} from "react-icons/md";
 import {BsCartPlus, BsStarFill} from "react-icons/bs";
 
-const Products = ({askCurrency, currency, cellPhone, cellPhones, addToCart, cart}) => {
+const Products = ({currency, cellPhone, cellPhones, addToCart, cart}) => {
 
     const {id, name, priceDollar, image, screenSize, camera, zoom, battery, ramMemory, capacity} = cellPhone;
     const selectProduct = (id) => {

@@ -1,7 +1,7 @@
 import React from 'react';
 import {MdDeleteForever} from "react-icons/md";
 
-const Productincart = ({cellPhone, cellPhones, addToCart, cart}) => {
+const Productincart = ({cellPhone, addToCart, cart}) => {
 
     const {id, name, priceDollar, image} = cellPhone;
 
