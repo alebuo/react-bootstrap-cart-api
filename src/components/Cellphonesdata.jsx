@@ -6,7 +6,7 @@ import xiaomi13 from "./images/xiaomi-13-ultra.jpg";
 
 export const cellPhonesData = [
     {
-        id: 1,
+        id: 152,
         name: 'Samsung Galaxy Z Fold 5',
         priceDollar: 1799.00,
         image: galaxyzfold5,
@@ -18,7 +18,7 @@ export const cellPhonesData = [
         capacity: '512GB'
     },
     {
-        id: 2,
+        id: 210,
         name: 'Samsung Galaxy Z Flip 5',
         priceDollar: 1098.00,
         image: galaxyzflip4,
@@ -30,7 +30,7 @@ export const cellPhonesData = [
         capacity: '512GB'
     },
     {
-        id: 3,
+        id: 325,
         name: 'Samsung Galaxy S23 FE',
         priceDollar: 599.00,
         image: galaxys23fe,
@@ -42,7 +42,7 @@ export const cellPhonesData = [
         capacity: '256GB'
     },
     {
-        id: 4,
+        id: 458,
         name: 'Xiaomi 14',
         priceDollar: 1200.00,
         image: xiaomi14,
@@ -54,7 +54,7 @@ export const cellPhonesData = [
         capacity: '512GB'
     },
     {
-        id: 5,
+        id: 582,
         name: 'Xiaomi 13 Ultra',
         priceDollar: 1700.00,
         image: xiaomi13,

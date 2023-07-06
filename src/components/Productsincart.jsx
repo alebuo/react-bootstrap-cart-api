@@ -28,10 +28,7 @@ const Productincart = ({cellPhone, addToCart, cart}) => {
                                     </div>
                                     <div className="col-md-6 col-lg-6 col-xl-6">
                                         <h5>{name}</h5>
-                                        <div className="d-flex flex-row">
 
-                                            <span>ID: {id}</span>
-                                        </div>
                                     </div>
                                     <div
                                         className="col-md-6 col-lg-3 col-xl-3 border-sm-start-none border-start text-center">

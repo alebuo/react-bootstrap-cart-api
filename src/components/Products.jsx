@@ -31,7 +31,7 @@ const Products = ({currency, cellPhone, cellPhones, addToCart, cart}) => {
                                     <div className="col-md-6 col-lg-6 col-xl-6">
                                         <h5>{name}</h5>
                                         <div className="d-flex flex-row">
-                                            <span>ID: {id} </span>
+                                            <p> Qualification: &nbsp;</p>
                                             <div className="text-danger mb-1 me-2">
                                                 <BsStarFill/>
                                                 <BsStarFill/>

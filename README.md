@@ -5,10 +5,6 @@
 This is a React application that is a online cellphone store.
 The application utilizes React Bootstrap for the user interface and incorporates a shopping cart feature with local storage for persistent data.
 
-
-![Vista previa](src/screenshot-react-bootstrap-cart-api.jpg)
-
-
 ## Features
 
 - Browse a selection of Samsung and Xiaomi cellphones.
