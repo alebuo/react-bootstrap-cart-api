@@ -14,7 +14,7 @@ function Header() {
             <header className="sticky">
                 <Navbar expand="lg" className="navbar navbar-dark bg-dark" fixed="top" style={{opacity: '0.8'}}>
                     <Container fluid>
-                        <Navbar.Brand href="index.html">React Bootstrap Cart</Navbar.Brand>
+                        <Navbar.Brand href="index.html">React Cart</Navbar.Brand>
                         <button onClick={changemode}
                                 className="btn btn-dark bg-secondary btn-sm px-1 me-sm-3"> Dark <BsFillMoonFill/> / <BsSun/> Light
                         </button>
